@@ -1,11 +1,15 @@
-# Files-organzition
-## A application , textbase application for organzing file type , such as PNG, JPG, EXE etc
+# Files-organzition and file hider
+## A Application , Textbase-application for organzing file type such as .PNG, .JPG, .EXE etc.
 
-This project is free-time project. in this project containing the file organzing which is a interface application
+This project is free-time project.
+in this project containing the file organzing, filehider which is a interface application . A textbase-application is containing the new filehider function that can run faster and better.
 
 ##  How to setup
-* Click at setup.py
-* Run
-  * 
+1. Run the setup.py to install requirements
+2. Run Application
+ * interface application
+   1. Run App.py
+      ![img](https://ibb.co/X7JS8nm "img")
+ * textbase-application
 
 
