@@ -9,7 +9,7 @@ in this project containing the file organzing, filehider which is a interface ap
 2. Run Application
  * interface application
    1. Run App.py
-   ![img](https://i.ibb.co/X7JS8nm/Screenshot-2024-06-20-000816.png)
+   * ![img](https://i.ibb.co/X7JS8nm/Screenshot-2024-06-20-000816.png)
  * textbase-application
 
 
