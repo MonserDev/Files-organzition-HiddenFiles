@@ -24,7 +24,7 @@ in this project containing the file organzing, filehider which is a interface ap
 
  * textbase-application
    
-   * Edit **file_list.csv** to whatever   
+   * Edit **file_list.csv** to whatever file path you want to hide   
    * Run **textbaseapp.py**
    * In this app you have to enter a **key** to use a function
    * Function
