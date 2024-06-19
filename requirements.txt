@@ -1,0 +1,4 @@
+clipboard==0.0.4
+customtkinter==5.2.2
+Pillow==10.0.0
+Pillow==10.3.0
