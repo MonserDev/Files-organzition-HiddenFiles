@@ -1,7 +1,7 @@
 # Files-organzition and file hider
 ## A Application , Textbase-application for organzing file type such as .PNG, .JPG, .EXE etc.
 
-This project is free-time project.
+This project is free-time project. This application was tested work only on Windows
 in this project containing the file organzing, filehider which is a interface application . A textbase-application is containing the new filehider function that can run faster and better.
 
 ##  How to setup
