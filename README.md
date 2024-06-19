@@ -13,7 +13,6 @@ in this project containing the file organzing, filehider which is a interface ap
    
    * Run **App.py**
    * ![img](https://i.ibb.co/X7JS8nm/Screenshot-2024-06-20-000816.png)
-   <img src="https://i.ibb.co/X7JS8nm/Screenshot-2024-06-20-000816.png" width="385px" align="center">
 
    * Function
       * **PACKFILE** is oranzing file type
